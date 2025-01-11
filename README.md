@@ -29,7 +29,7 @@ Hey
 The Architectural diagram below shows a visual representation of data flow in Agentic HR project.
 
 <div align="center">
-<img src="./Architecture.JPG" alt="Agentic HR Architectural Diagram" style="width:400%; height:auto;">
+<img src="./architecture.JPG" alt="Agentic HR Architectural Diagram" style="width:400%; height:auto;">
 </div>
 
 
