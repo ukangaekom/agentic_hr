@@ -10,7 +10,15 @@
 ### 7. Project Repositories
 
 
+## Presentation
 
+[Download](./presentation.pdf)
+
+## About
+
+## Business Problem
+
+## Solution
 
 
 
@@ -30,19 +38,19 @@ The Architectural diagram below shows a visual representation of data flow in Ag
 
 
 
-
+## Demo tutorials
 
 
 
 
 ## Demos
-1. [BOT]()
-2. [Website]()
+1. [BOT](https://t.me/hr_agentic_bot)
+2. [Website](https://agency-hr.vercel.app)
 
 
 
 
-## Project Git Repos
+## Project Repositories
 1. [Agentic_Hr Bot]()
 2. [Frontend]()
-3. [Backend_api]()
+3. [Agentic_HR API](https://github.com/AHKAYY007/agentic_hr_api)
