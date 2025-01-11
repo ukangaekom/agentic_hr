@@ -29,10 +29,10 @@
 The Architectural diagram below shows a visual representation of data flow in Agentic HR project.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/9260c187-6cf5-4ddf-a3da-a2750c9f21c7" alt="Agentic HR Architectural Diagram" style="width:400%; height:auto;">
+<img src="https://github.com/ukangaekom/agentic_hr/blob/1aef20382ad192a9db844c80474b1171959499ff/images/architecture.jpg" alt="Agentic HR Architectural Diagram" style="width:400%; height:auto;">
 </div>
 
-
+[image](https://github.com/ukangaekom/agentic_hr/blob/1aef20382ad192a9db844c80474b1171959499ff/images/architecture.jpg)
 
 
 
@@ -51,6 +51,6 @@ The Architectural diagram below shows a visual representation of data flow in Ag
 
 
 ## Project Repositories
-1. [Agentic_Hr Bot]()
+1. [Agentic_Hr Bot](https://github.com/ukangaekom/hr_gemini)
 2. [Frontend]()
 3. [Agentic_HR API](https://github.com/AHKAYY007/agentic_hr_api)
