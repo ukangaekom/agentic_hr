@@ -170,5 +170,5 @@ The Architectural diagram below shows a visual representation of data flow in Ag
 
 ## Project Repositories
 1. [Agentic_Hr Bot](https://github.com/ukangaekom/hr_gemini)
-2. [Frontend]()
+2. [Frontend](https://github.com/AmDeeJhay/Agentic-HR)
 3. [Agentic_HR API](https://github.com/AHKAYY007/agentic_hr_api)
