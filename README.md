@@ -18,10 +18,10 @@
 
 
 ## Project Architecture
-The Architectural diagram below shows a visual representation of data flow in the in Agentic HR project.
+The Architectural diagram below shows a visual representation of data flow in Agentic HR project.
 
 <div align="center">
-<img src="architecture.jpg" alt="Agentic HR Architectural Diagram" style="width:400%; height:auto;">
+<img src="./architecture.jpg" alt="Agentic HR Architectural Diagram" style="width:400%; height:auto;">
 </div>
 
 
