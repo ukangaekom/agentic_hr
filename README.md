@@ -14,7 +14,7 @@
 
 ### Agentic HR: Revolutionizing the Job-Seeking Journey with AI-Powered Solutions
 
-Hey there👋, looks like you stumbled across this documentation wondering what it could be. Yeah, it happens. Agentic HR is a state-of-the-art, AI-driven platform meticulously designed to redefine and elevate the job-seeking experience. By seamlessly combining advanced artificial intelligence with user-friendly, intuitive tools, Agentic HR empowers job seekers to achieve their career goals with efficiency and confidence.
+Hey there👋, looks like you stumbled across this documentation wondering what it could be? It's a normal feeling🙂. Agentic HR is a state-of-the-art, AI-driven platform meticulously designed to redefine and elevate the job-seeking experience. By seamlessly combining advanced artificial intelligence with user-friendly, intuitive tools, Agentic HR empowers job seekers to achieve their career goals with efficiency and confidence.
 
 This innovative platform simplifies the complexities of job hunting, enabling users to craft highly personalized, professional-grade resumes, uncover tailored job opportunities, and manage applications seamlessly—all while requiring minimal time and effort. Agentic HR is built to cater to modern job seekers, ensuring they remain competitive in a fast-evolving employment landscape.
 
