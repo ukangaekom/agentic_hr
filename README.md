@@ -11,7 +11,7 @@
 
 
 ## Presentation
-
+Hey 
 [Download](./presentation.pdf)
 
 ## About
@@ -29,7 +29,7 @@
 The Architectural diagram below shows a visual representation of data flow in Agentic HR project.
 
 <div align="center">
-<img src="./images/architecture.JPG" alt="Agentic HR Architectural Diagram" style="width:400%; height:auto;">
+<img src="./Architecture.JPG" alt="Agentic HR Architectural Diagram" style="width:400%; height:auto;">
 </div>
 
 [image](https://github.com/ukangaekom/agentic_hr/blob/1aef20382ad192a9db844c80474b1171959499ff/images/architecture.jpg)
