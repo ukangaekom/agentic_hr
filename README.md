@@ -148,7 +148,7 @@ The platform constantly improves its recommendations by learning from user inter
 The Architectural diagram below shows a visual representation of data flow in Agentic HR project.
 
 <div align="center">
-<img src="./architecture.jpg" alt="Agentic HR Architectural Diagram" style="width:400%; height:auto;">
+<img src="./Architecture.jpg" alt="Agentic HR Architectural Diagram" style="width:400%; height:auto;">
 </div>
 
 
@@ -157,7 +157,7 @@ The Architectural diagram below shows a visual representation of data flow in Ag
 
 
 ## Demo tutorials
-
+### [Demo Video 1](https://go.screenpal.com/watch/cTVX0CneHkl)
 
 
 
